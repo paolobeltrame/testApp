@@ -1,0 +1,16 @@
+{
+            "serverPort":"3002",
+            "appName":"",
+            "appIcon":"",
+            "dbUrl": "mongodb://localhost:27017/frameworkDB",
+            "sessionCollection": "nodeSessions",
+            "h2oFolder": "h2o",
+            "h2oCommandLine": "java -jar h2o.jar ",
+            "h2oURL": "http://127.0.0.1:54321",
+            "heapSize":"8g",
+            "h2oTempFolder":"../h2oTempData",
+            "appDataFolder":"../ApplicationData",
+            "appFile":"app.json",
+            "isMultiApp":false,
+            "isLdapAuth":false
+        }
