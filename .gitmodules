@@ -1,0 +1,4 @@
+[submodule "Batman_base"]
+	path = Batman_base
+	url = https://github.com/federicou/Batman_base.git
+	branch = dev
